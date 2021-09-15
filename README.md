@@ -13,3 +13,6 @@ Retomando la parte de mail esta todo el back para confirmacion de email cuando s
 creo era de los puntos extras
 
 Como las empresas y empleados los consumo directo del API no puedo usar el paginador en la API asi que en el controlador del frontend se hizo un paginate custom para resolver esta disyuntiva.
+
+
+Se tiene que ejecutar "npm install" para compiralos los estilos y la parte de la paginacion
